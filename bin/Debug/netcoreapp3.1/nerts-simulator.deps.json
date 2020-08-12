@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "nerts-simulator/1.0.0": {
+        "runtime": {
+          "nerts-simulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nerts-simulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
